@@ -1,0 +1,54 @@
+/* CSS Document */
+
+body {
+	background-color: black;
+	text-align:center
+}
+
+h1 {
+	color:lime;
+	text-align:center;
+}
+
+h2 {
+	color:lime;
+	text-align:center;
+}
+
+h4 {
+	color:lime;
+	text-align:center;
+}
+
+#playerTile {
+	width:50px;
+	height:50px;
+	outline:1px solid;
+	float: left;
+}
+
+#opTile {
+	width:30px;
+	height:30px;
+	outline:1px solid;
+	float: left;
+}
+
+#playerBoard { 
+	background-color:black;
+	color:lime;
+	width:500px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#opBoard {
+	background-color:black;
+	color:lime;
+	width:300px;
+	height:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+	
