@@ -1,9 +1,1 @@
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
-"# BattleShip-Project" 
+Simple Battleship game made with Javascript
